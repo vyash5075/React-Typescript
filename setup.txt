@@ -1,0 +1,2 @@
+npm create-react-app quizTypescriptReact --template typesript
+npm i styled-components @types/styled-components
